@@ -1,0 +1,4 @@
+Accuracy: 99.72%
+MSE: 2440.21
+Total Rows: 1000
+Features: 3
